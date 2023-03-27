@@ -156,8 +156,9 @@ for (let x = 0; x < arrlist; x++) {
 //19.Create a function that will return in an array the first “p” prime numbers
 //greater than “n”
 
-// 20.Rotate an array to the left 1 position
-let shiftarr = [1, 2, 3, 4, 5];
+
+
+
 
 
 
