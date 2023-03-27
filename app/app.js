@@ -4,16 +4,6 @@
 
 //4. Print all the multiplication tables with numbers from 1 to 10
 
-
-
-
-
-
-
-
-
-
-
 // 11. Calculate the average of the numbers in an array of numbers
 // answer 
 let average = 0;
