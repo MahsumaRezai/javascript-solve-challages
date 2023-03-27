@@ -118,6 +118,11 @@ for (let x = 2; x <= 10; x++) {
     first = second;
     second = thrid;
 }
+//15. Create a function that will find the nth Fibonacci number using recursion
+
+// 16.Create a function that will return a Boolean specifying if a number is prime
+// answer 
+
 
 
 
