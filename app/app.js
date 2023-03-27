@@ -118,10 +118,53 @@ for (let x = 2; x <= 10; x++) {
     first = second;
     second = thrid;
 }
-//15. Create a function that will find the nth Fibonacci number using recursion
 
-// 16.Create a function that will return a Boolean specifying if a number is prime
+
+// 16.Create a function that will return a Boolean specifying if a number is prime *
 // answer 
+function primenum() {
+    if (x < 2) {
+        return false
+    }
+    else if (x == 0) {
+        return true
+    }
+    prompt("the value is prime", x);
+    prompt("the vlaue is not prime", x)
+}
+primenum();
+alert("djffj")
+
+// 17.  Calculate the sum of digits of a positive integer number
+
+let arrlist = [1, 2, 3, 4, 5, 6, 7, 8];
+for (let x = 0; x < arrlist; x++) {
+    if (x % 2 == 0) {
+        arrlist.reduce((a, b) => {
+            return a + b;
+
+        })
+
+
+    }
+    else {
+        document.write("your number is nag")
+    }
+}
+// 18. Print the first 100 prime numbers *
+
+//19.Create a function that will return in an array the first “p” prime numbers
+//greater than “n”
+
+// 20.Rotate an array to the left 1 position
+let shiftarr = [1, 2, 3, 4, 5];
+
+
+
+
+
+
+
 
 
 
