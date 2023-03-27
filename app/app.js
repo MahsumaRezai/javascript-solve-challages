@@ -1,37 +1,11 @@
 // part one 
-// 1. Print numbers from 1 to 10
-// answer
-for (let x = 1; x <= 10; x++) {
-    document.write(x, "<br>")
-}
-// 2. Print the odd numbers less than 100
-// answer
-for (let i = 1; i < 100; i++) {
-    if (i % 2 == 1) {
-        document.write("<br>", i, "<br>")
-    }
 
-}
-// 3. Print the multiplication table with 7
-// answer
-for (let y = 1; y <= 10; y++) {
-    let m = y * 7;
-    document.write("<br>", m, "<br>")
-}
+
+
 //4. Print all the multiplication tables with numbers from 1 to 10
 
-//5. Calculate the sum of numbers from 1 to 10
-// answer
-let numbrs = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-let sum = numbrs.reduce((a, b) => {
-    return a + b;
 
-})
-// 6.  Calculate 10!
-// answer one
-let num = 10; let char = "!";
-let concat = num + char;
-document.write(concat);
+
 
 // 7. Calculate the sum of even numbers greater than 10 and less than 30
 // answer
