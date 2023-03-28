@@ -2,8 +2,6 @@
 
 
 
-//4. Print all the multiplication tables with numbers from 1 to 10
-
 
 
 // 12. Create a function that receives an array of numbers as argument and returns an
