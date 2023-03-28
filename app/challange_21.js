@@ -7,4 +7,4 @@ function post() {
     document.write("<br>", add)
 
 
-} post()
+} post();
