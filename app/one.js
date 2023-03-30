@@ -4,10 +4,6 @@
 // 42 
 // 43 
 
-function fun(str) {
-    return parseInt(str)
-}
-fun("2344")
 
 
 
